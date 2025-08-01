@@ -1,0 +1,43 @@
+body {
+
+  margin: 0;
+
+  padding: 0;
+
+  background-color: #29347B;
+
+  display: flex;
+
+  justify-content: center;
+
+  align-items: center;
+
+  height: 100vh;
+
+  position: relative;
+
+  overflow: hidden;
+
+  font-family: 'Shadows Into Light', cursive;
+
+
+}
+
+header {
+
+  color: white;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  
+
+  }
+  
+  p {
+    color: white;
+  }
+  
+  .background-img {
+  width: 100%;
+  
+  }
