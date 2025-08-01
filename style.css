@@ -20,24 +20,20 @@ body {
 
   font-family: 'Shadows Into Light', cursive;
 
-
 }
 
 header {
 
   color: white;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  
 
   }
   
   p {
     color: white;
-  }
-  
-  .background-img {
-  width: 100%;
-  
-  }
+  } 
+
+
+.background-image {
+
+  display: flex;
+}
